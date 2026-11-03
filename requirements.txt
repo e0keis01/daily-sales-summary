@@ -1,3 +1,3 @@
-analysticskit
+analyticskit
 pandas
 matplotlib
